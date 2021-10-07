@@ -1,10 +1,8 @@
 ### Site Settings ###
 title               : portfolYOU
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "laloolea.github.io"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+                      I am a recent Computer Science graduate. I just finished my BSc degree last year at the University of Sonora in Mexico. I am very passionate about my work and studies and would like to get experience in interface design, web development, and data science.
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : laloolea/laloolea.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
